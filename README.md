@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **LLMs in depth, RAG**
 
-- 👨‍💻 All of my projects are available at [gaurang111.github.io](gaurang111.github.io)
+- 👨‍💻 Check out my portfolio at [gaurang111.github.io](gaurang111.github.io)
 
 - 📫 How to reach me **gorangsolanki1@gmail.com**
 

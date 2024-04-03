@@ -1,4 +1,4 @@
-
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 <h1 align="center">Hi 👋, I'm Gaurang Solanki</h1>
 <h3 align="center">Data Analyst | Data Scientist | ML Engineer</h3>
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Graph Neural Networks**
 
-- 🌱 I’m currently learning **in-depth LLMs, RAG**
+- 🌱 I’m currently learning **LLMs in depth, RAG**
 
 - 👨‍💻 All of my projects are available at [gaurang111.github.io](gaurang111.github.io)
 

@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19621
-Fork on GitHub
-5893
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Gaurang Solanki</h1>
 <h3 align="center">Data Analyst | Data Scientist | ML Engineer</h3>
 

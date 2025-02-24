@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Graph Neural Networks**
 
-- 🌱 I’m currently learning **LLMs in depth, RAG**
+- 🌱 I’m currently learning **LLMs in depth, Agentic AI**
 
 - 👨‍💻 Check out my portfolio at [gaurang111.github.io](https://gaurang111.github.io/)
 
